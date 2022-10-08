@@ -1,4 +1,4 @@
-# Research_Project
+# Carbon Auto Crawling Bot
 Project name: Adoption of Robotic Process Automation Techniques: Emissions Trading Big data Crawling System
 
 Data Science Lab - Room 407 - (National) Korea Maritime & Ocean University
